@@ -1,0 +1,1 @@
+include ':app', ':normal_ndk_build', "rsademo"
